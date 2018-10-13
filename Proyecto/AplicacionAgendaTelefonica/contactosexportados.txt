@@ -1,0 +1,4 @@
+jf arredondo; [ 3334444, fijo ], [ 3335555, fijo ], ; jf@dominio; 1234; 01
+pedro ramirez; [ 3338888, fijo ], ; pedro@dominio; 1234; 09
+laura martinez; [ 3339834321, celular ], ; laura@dominio; 8475; lau
+lorena lopez; [ 3127685472, celular ], ; lorena@dominio.com; 65356; lore
